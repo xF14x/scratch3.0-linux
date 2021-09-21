@@ -1,29 +1,33 @@
-# Scratch Desktop 3.0 Offline Editor for Linux
-As the offline version of Scratch 3.0 is not supported for the linux, this is the rebuild of the scratch desktop for debian based GNU Linux distributions like Ubuntu or Debian and for RPM based distributions like Fedora and OpenSUSE. Tested working without any issues.
+# محرر المكعبات سكراتش 3.0
+نسخه غير متصله بالإنترنت من محرر المكعبات سكراتش.
 
-## Installation
-Go to https://github.com/redshaderobotics/scratch3.0-linux/releases
-Installers for Debian based distributions and are available in deb format. For RPM distributions rpm installers are available in the release section.
-### For Other Linux Distros
-Download the archive from the releases. Unzip and run the command ./scratch-desktop to run the desktop.
+## التنزيل
+https://github.com/redshaderobotics/scratch3.0-linux/releases اضغط على الرابط
+وحمل الصيغة المدعومة من نظامك.
+### للتوزيعات الأخرى
+#### وبيشتغل معك المحرر "./scratch-desktop" حمل النسخه المضغوطه من البرنامج وفك الضغط ونفذ امر 
 
-## Supported/Tested Linux Distros
+## توزيعات تدعم البرنامج/التوزيعات المجربه
 * Ubuntu 18.04.2
-* Debian 9.8.0
+* Debian 11.10.9.8
 * Linux Mint 19.1
 * Fedora 30
 * OpenSUSE Leap 15.0
 * Ubuntu 14.04 (32 bit)
 
-## Screenshot in Ubuntu 18.04.2
+## "Debian 11" صورة من
+![Screenshot](Screenshotdebian11.png)
+
+## "Ubuntu 18.04.2" صورة من
 ![Screenshot](screenshot.png)
 
-## Screenshot in Linux Mint 19.1
+## "Linux Mint 19.1" صورة من
 ![Screenshot](screenshotmint.png)
 
-## Screenshot in Fedora 30
+## "Fedora 30" صورة من
 ![Screenshot](screenshotfedora.png)
 
+<a href="https://twitter.com/F14Commander">ترجمه: سليمان المهوس</a>
 ### License
 BSD Clause 2 provided by the LLK
 
